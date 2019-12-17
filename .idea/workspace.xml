@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b052d802-a10f-41a2-b578-b2eafdc927e5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../SSM/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/aop/WebControllerAop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/bean/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/controller/AopController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/r.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSM/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SSM/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSM/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SSM/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSM/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SSM/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\CLASS\Spring Cloud\apache-maven-3.6.0-bin\apache-maven-3.6.0\repository" />
+        <option name="mavenHome" value="D:/CLASS/Spring Cloud/apache-maven-3.6.0-bin/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="D:\CLASS\Spring Cloud\apache-maven-3.6.0-bin\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectId" id="1V44DWJYFFVhUkFA2X8gtnNFykp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.4875805" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RunManager">
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SpringBootAop" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b052d802-a10f-41a2-b578-b2eafdc927e5" name="Default Changelist" comment="" />
+      <created>1576498913122</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576498913122</updated>
+      <workItem from="1576498921105" duration="2371000" />
+      <workItem from="1576545508147" duration="2462000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="444" y="0" key="#com.intellij.ide.util.MemberChooser" timestamp="1576499619511">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="444" y="0" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1576499619511" />
+    <state x="248" y="215" width="714" height="204" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath" timestamp="1576548536843">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="248" y="215" width="714" height="204" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath/0.0.1366.728@0.0.1366.728" timestamp="1576548536843" />
+    <state x="275" y="46" key="FileChooserDialogImpl" timestamp="1576548580529">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="46" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1576548580529" />
+    <state width="1313" height="359" key="GridCell.Tab.0.bottom" timestamp="1576546745289">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1313" height="359" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1576546745289" />
+    <state width="1313" height="359" key="GridCell.Tab.0.center" timestamp="1576546745289">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1313" height="359" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1576546745289" />
+    <state width="1313" height="359" key="GridCell.Tab.0.left" timestamp="1576546745289">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1313" height="359" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1576546745289" />
+    <state width="1313" height="359" key="GridCell.Tab.0.right" timestamp="1576546745289">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1313" height="359" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1576546745289" />
+    <state width="1313" height="359" key="GridCell.Tab.1.bottom" timestamp="1576546745290">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1313" height="359" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1576546745290" />
+    <state width="1313" height="359" key="GridCell.Tab.1.center" timestamp="1576546745289">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1313" height="359" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1576546745289" />
+    <state width="1313" height="359" key="GridCell.Tab.1.left" timestamp="1576546745289">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1313" height="359" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1576546745289" />
+    <state width="1313" height="359" key="GridCell.Tab.1.right" timestamp="1576546745289">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1313" height="359" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1576546745289" />
+    <state x="35" y="0" key="SettingsEditor" timestamp="1576548537894">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="35" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1576548537894" />
+    <state x="0" y="44" key="new project wizard" timestamp="1576548033073">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="44" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1576548033073" />
+    <state x="262" y="0" width="840" height="726" key="search.everywhere.popup" timestamp="1576500828567">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="262" y="0" width="840" height="726" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1576500828567" />
+  </component>
+</project>
