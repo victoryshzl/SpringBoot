@@ -3,6 +3,21 @@
   <component name="ChangeListManager">
     <list default="true" id="b052d802-a10f-41a2-b578-b2eafdc927e5" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../SSM/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/aop/WebControllerAop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/bean/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/controller/AopController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/r.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot_Data_Jpa/src/main/java/com/example/demo/bean/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot_Data_Jpa/src/main/java/com/example/demo/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot_Data_Jpa/src/main/java/com/example/demo/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot_Data_Jpa/src/main/java/com/example/demo/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot_Data_Jpa/src/main/webapp/WEB-INF/jsp/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot_Data_Jpa/src/main/webapp/WEB-INF/jsp/r.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot_Data_Jpa/src/main/webapp/WEB-INF/jsp/s.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot_Data_Jpa/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SSM/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SSM/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SSM/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SSM/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SSM/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SSM/.idea/vcs.xml" afterDir="false" />
@@ -103,7 +118,7 @@
       <option name="presentableId" value="Default" />
       <updated>1576498913122</updated>
       <workItem from="1576498921105" duration="2371000" />
-      <workItem from="1576545508147" duration="4017000" />
+      <workItem from="1576545508147" duration="5847000" />
     </task>
     <task id="LOCAL-00001" summary="SpringBoot整合Aop案例">
       <created>1576548679219</created>
@@ -140,38 +155,38 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="46" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1576548580529" />
-    <state width="1313" height="359" key="GridCell.Tab.0.bottom" timestamp="1576546745289">
+    <state width="1313" height="359" key="GridCell.Tab.0.bottom" timestamp="1576552773361">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1313" height="359" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1576546745289" />
-    <state width="1313" height="359" key="GridCell.Tab.0.center" timestamp="1576546745289">
+    <state width="1313" height="359" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1576552773361" />
+    <state width="1313" height="359" key="GridCell.Tab.0.center" timestamp="1576552773360">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1313" height="359" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1576546745289" />
-    <state width="1313" height="359" key="GridCell.Tab.0.left" timestamp="1576546745289">
+    <state width="1313" height="359" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1576552773360" />
+    <state width="1313" height="359" key="GridCell.Tab.0.left" timestamp="1576552773360">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1313" height="359" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1576546745289" />
-    <state width="1313" height="359" key="GridCell.Tab.0.right" timestamp="1576546745289">
+    <state width="1313" height="359" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1576552773360" />
+    <state width="1313" height="359" key="GridCell.Tab.0.right" timestamp="1576552773361">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1313" height="359" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1576546745289" />
-    <state width="1313" height="359" key="GridCell.Tab.1.bottom" timestamp="1576546745290">
+    <state width="1313" height="359" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1576552773361" />
+    <state width="1313" height="359" key="GridCell.Tab.1.bottom" timestamp="1576552773363">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1313" height="359" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1576546745290" />
-    <state width="1313" height="359" key="GridCell.Tab.1.center" timestamp="1576546745289">
+    <state width="1313" height="359" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1576552773363" />
+    <state width="1313" height="359" key="GridCell.Tab.1.center" timestamp="1576552773363">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1313" height="359" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1576546745289" />
-    <state width="1313" height="359" key="GridCell.Tab.1.left" timestamp="1576546745289">
+    <state width="1313" height="359" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1576552773363" />
+    <state width="1313" height="359" key="GridCell.Tab.1.left" timestamp="1576552773362">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1313" height="359" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1576546745289" />
-    <state width="1313" height="359" key="GridCell.Tab.1.right" timestamp="1576546745289">
+    <state width="1313" height="359" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1576552773362" />
+    <state width="1313" height="359" key="GridCell.Tab.1.right" timestamp="1576552773363">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1313" height="359" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1576546745289" />
+    <state width="1313" height="359" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1576552773363" />
     <state x="35" y="0" key="SettingsEditor" timestamp="1576548537894">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -180,10 +195,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="175" y="32" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1576548728751" />
-    <state x="0" y="44" key="new project wizard" timestamp="1576548033073">
+    <state x="0" y="34" width="1366" height="694" key="new project wizard" timestamp="1576550454886">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="0" y="44" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1576548033073" />
+    <state x="0" y="34" width="1366" height="694" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1576550454886" />
     <state x="262" y="0" width="840" height="726" key="search.everywhere.popup" timestamp="1576500828567">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
