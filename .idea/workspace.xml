@@ -3,55 +3,16 @@
   <component name="ChangeListManager">
     <list default="true" id="b052d802-a10f-41a2-b578-b2eafdc927e5" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../SSM/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/fc5c6b14-1a1a-4e0c-8669-1d894238b4a4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/fc5c6b14-1a1a-4e0c-8669-1d894238b4a4/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_fastinfoset_FastInfoset_1_2_16.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_persistence_javax_persistence_api_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_transaction_javax_transaction_api_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_48.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_dom4j_dom4j_2_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_0_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_4_9_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_24_0_GA.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_1_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jvnet_staxex_stax_ex_1_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_1_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_2_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_core_1_2_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_2_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_5_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_5_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/demo/bean/Depart.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/demo/bean/Employee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/demo/bean/Teacher.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/demo/bean/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/demo/controller/LoginController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/demo/repository/DepartRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/demo/repository/EmployeeRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/demo/repository/UserJdbcRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/demo/repository/UserJpaRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/demo/repository/UserPSRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/demo/repository/UserRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/demo/service/UserService$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/demo/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot_Redis/src/main/java/com/example/demo/bean/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot_Redis/src/main/java/com/example/demo/controller/UserRedisController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot_Redis/src/main/java/com/example/demo/dao/UserRedisDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot_Redis/src/main/java/com/example/demo/service/UserRedisService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot_Redis/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SSM/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SSM/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SSM/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SSM/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SSM/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SSM/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -177,7 +138,7 @@
       <workItem from="1576553364094" duration="23624000" />
       <workItem from="1576634718828" duration="165000" />
       <workItem from="1576736021279" duration="1859000" />
-      <workItem from="1576737928396" duration="230000" />
+      <workItem from="1576737928396" duration="2046000" />
     </task>
     <task id="LOCAL-00001" summary="SpringBoot整合Aop案例">
       <created>1576548679219</created>
@@ -193,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576737229965</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="SpringBoot整合Data以及jpa的相关案例，以及其他的查询案例">
+      <created>1576738245764</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1576738245765</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -210,10 +178,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="175" y="0" key="#Assign_Data_Sources/0.0.1366.728@0.0.1366.728" timestamp="1576571930384" />
-    <state x="175" y="0" key="#Notifications" timestamp="1576736111651">
+    <state x="175" y="0" key="#Notifications" timestamp="1576738332977">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="175" y="0" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1576736111651" />
+    <state x="175" y="0" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1576738332977" />
     <state x="275" y="14" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576572012353">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -234,18 +202,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="216" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1576572463944" />
-    <state x="102" y="0" key="CommitChangelistDialog2" timestamp="1576737222110">
+    <state x="102" y="0" key="CommitChangelistDialog2" timestamp="1576738240528">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="102" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1576737222110" />
-    <state x="135" y="137" width="1166" height="528" key="DiffContextDialog" timestamp="1576575429848">
+    <state x="102" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1576738240528" />
+    <state x="135" y="137" width="1166" height="528" key="DiffContextDialog" timestamp="1576738207357">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="135" y="137" width="1166" height="528" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1576575429848" />
+    <state x="135" y="137" width="1166" height="528" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1576738207357" />
     <state x="275" y="46" key="FileChooserDialogImpl" timestamp="1576738155268">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="46" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1576738155268" />
+    <state x="514" y="271" key="Github.Dialog.Accounts.Choose" timestamp="1576738451047">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="514" y="271" key="Github.Dialog.Accounts.Choose/0.0.1366.728@0.0.1366.728" timestamp="1576738451047" />
     <state width="1296" height="353" key="GridCell.Tab.0.bottom" timestamp="1576587192900">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -286,14 +258,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="35" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1576548537894" />
-    <state x="175" y="32" key="Vcs.Push.Dialog.v2" timestamp="1576737271798">
+    <state x="175" y="32" key="Vcs.Push.Dialog.v2" timestamp="1576738441391">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="175" y="32" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1576737271798" />
-    <state x="0" y="34" width="1366" height="694" key="new project wizard" timestamp="1576550454886">
+    <state x="175" y="32" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1576738441391" />
+    <state x="0" y="34" width="1366" height="694" key="new project wizard" timestamp="1576738923376">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="0" y="34" width="1366" height="694" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1576550454886" />
+    <state x="0" y="34" width="1366" height="694" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1576738923376" />
     <state x="262" y="0" width="840" height="726" key="search.everywhere.popup" timestamp="1576586312527">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
