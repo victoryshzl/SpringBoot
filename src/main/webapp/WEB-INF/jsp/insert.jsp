@@ -4,6 +4,6 @@
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
 <title>成绩登入</title>
 <body>
-Login Success!
+Insert Success!
 </body>
 </html>

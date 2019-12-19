@@ -2,17 +2,25 @@
 <!DOCTYPE html>
 <html>
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
-<title>成绩登入</title>
+<title>用户登录</title>
 <body>
-学生成绩登入
-<form action="/aop/rget" method="post">
-    用户名：<input type="text" name="name"/>
+<form name="form1" action="/register" method="post">
+    学号：<input type="text" name="uid" id="uid"/>
     <br>
-    语文：<input type="text" name="yw"/>
-    数学：<input type="text" name="sx"/>
-    英语：<input type="text" name="yy"/>
+    用户名：<input type="text" name="username"/>
     <br>
-    <input type="submit" value="提交"/>
+    密码：<input type="password" name="password"/>
+    <br>
+    <input type="submit" value="注册">
+    <input type="button" class="mulButton" name="cx" id="btn01" onclick="search('/find')" value="查询"/>
+
+    <script>
+        function search(href) {
+            var form = document.form1;
+            form.action = href;
+            form.submit();
+        }
+    </script>
 </form>
 </body>
 </html>

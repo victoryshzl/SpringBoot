@@ -3,25 +3,41 @@
   <component name="ChangeListManager">
     <list default="true" id="b052d802-a10f-41a2-b578-b2eafdc927e5" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../SSM/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/aop/WebControllerAop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/bean/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/controller/AopController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/r.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Data_Jpa/src/main/java/com/example/demo/bean/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Data_Jpa/src/main/java/com/example/demo/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Data_Jpa/src/main/java/com/example/demo/repository/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Data_Jpa/src/main/java/com/example/demo/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Data_Jpa/src/main/webapp/WEB-INF/jsp/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Data_Jpa/src/main/webapp/WEB-INF/jsp/r.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Data_Jpa/src/main/webapp/WEB-INF/jsp/s.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_Data_Jpa/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootAop/readme.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootAop/src/main/java/com/example/demo/aop/WebControllerAop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootAop/src/main/java/com/example/demo/bean/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootAop/src/main/java/com/example/demo/controller/AopController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootAop/src/main/webapp/WEB-INF/jsp/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootAop/src/main/webapp/WEB-INF/jsp/r.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootAop/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/bean/Depart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/bean/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/bean/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/bean/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/repository/DepartRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/repository/EmployeeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/repository/UserJdbcRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/repository/UserJpaRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/repository/UserPSRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/employee.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/insert.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/s.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/sort.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SSM/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SSM/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SSM/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SSM/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SSM/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SSM/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootAop.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBootAop.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/controller/AopController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/controller/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/r.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/r.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/controller/AopController.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,10 +47,25 @@
   <component name="CompilerWorkspaceConfiguration">
     <option name="MAKE_PROJECT_ON_SAVE" value="true" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -72,6 +103,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
@@ -85,6 +117,15 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.4875805" />
     <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.demo.service" />
+      <recent name="com.example.demo.bean" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Users\HZL\IdeaProjects\SpringBoot_DataJpa\src\main\webapp\WEB-INF\jsp" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
@@ -119,6 +160,9 @@
       <updated>1576498913122</updated>
       <workItem from="1576498921105" duration="2371000" />
       <workItem from="1576545508147" duration="5847000" />
+      <workItem from="1576553364094" duration="23624000" />
+      <workItem from="1576634718828" duration="165000" />
+      <workItem from="1576736021279" duration="978000" />
     </task>
     <task id="LOCAL-00001" summary="SpringBoot整合Aop案例">
       <created>1576548679219</created>
@@ -139,54 +183,82 @@
     <option name="LAST_COMMIT_MESSAGE" value="SpringBoot整合Aop案例" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="444" y="0" key="#com.intellij.ide.util.MemberChooser" timestamp="1576499619511">
+    <state x="175" y="0" key="#Assign_Data_Sources" timestamp="1576571930384">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="444" y="0" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1576499619511" />
+    <state x="175" y="0" key="#Assign_Data_Sources/0.0.1366.728@0.0.1366.728" timestamp="1576571930384" />
+    <state x="175" y="0" key="#Notifications" timestamp="1576736111651">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="175" y="0" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1576736111651" />
+    <state x="275" y="14" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576572012353">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="14" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1576572012353" />
+    <state x="444" y="0" key="#com.intellij.ide.util.MemberChooser" timestamp="1576583110591">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="444" y="0" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1576583110591" />
     <state x="248" y="215" width="714" height="204" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath" timestamp="1576548536843">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="248" y="215" width="714" height="204" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath/0.0.1366.728@0.0.1366.728" timestamp="1576548536843" />
+    <state x="363" y="90" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1576736173691">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="90" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1576736173691" />
+    <state x="216" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1576572463944">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="216" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1576572463944" />
     <state x="102" y="0" key="CommitChangelistDialog2" timestamp="1576548675634">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="102" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1576548675634" />
-    <state x="275" y="46" key="FileChooserDialogImpl" timestamp="1576548580529">
+    <state x="135" y="137" width="1166" height="528" key="DiffContextDialog" timestamp="1576575429848">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="46" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1576548580529" />
-    <state width="1313" height="359" key="GridCell.Tab.0.bottom" timestamp="1576552773361">
+    <state x="135" y="137" width="1166" height="528" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1576575429848" />
+    <state x="275" y="46" key="FileChooserDialogImpl" timestamp="1576737112906">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1313" height="359" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1576552773361" />
-    <state width="1313" height="359" key="GridCell.Tab.0.center" timestamp="1576552773360">
+    <state x="275" y="46" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1576737112906" />
+    <state width="1296" height="353" key="GridCell.Tab.0.bottom" timestamp="1576587192900">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1313" height="359" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1576552773360" />
-    <state width="1313" height="359" key="GridCell.Tab.0.left" timestamp="1576552773360">
+    <state width="1296" height="353" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1576587192900" />
+    <state width="1296" height="353" key="GridCell.Tab.0.center" timestamp="1576587192900">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1313" height="359" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1576552773360" />
-    <state width="1313" height="359" key="GridCell.Tab.0.right" timestamp="1576552773361">
+    <state width="1296" height="353" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1576587192900" />
+    <state width="1296" height="353" key="GridCell.Tab.0.left" timestamp="1576587192898">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1313" height="359" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1576552773361" />
-    <state width="1313" height="359" key="GridCell.Tab.1.bottom" timestamp="1576552773363">
+    <state width="1296" height="353" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1576587192898" />
+    <state width="1296" height="353" key="GridCell.Tab.0.right" timestamp="1576587192900">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1313" height="359" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1576552773363" />
-    <state width="1313" height="359" key="GridCell.Tab.1.center" timestamp="1576552773363">
+    <state width="1296" height="353" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1576587192900" />
+    <state width="1296" height="353" key="GridCell.Tab.1.bottom" timestamp="1576587192901">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1313" height="359" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1576552773363" />
-    <state width="1313" height="359" key="GridCell.Tab.1.left" timestamp="1576552773362">
+    <state width="1296" height="353" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1576587192901" />
+    <state width="1296" height="353" key="GridCell.Tab.1.center" timestamp="1576587192900">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1313" height="359" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1576552773362" />
-    <state width="1313" height="359" key="GridCell.Tab.1.right" timestamp="1576552773363">
+    <state width="1296" height="353" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1576587192900" />
+    <state width="1296" height="353" key="GridCell.Tab.1.left" timestamp="1576587192900">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1313" height="359" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1576552773363" />
+    <state width="1296" height="353" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1576587192900" />
+    <state width="1296" height="353" key="GridCell.Tab.1.right" timestamp="1576587192901">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1296" height="353" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1576587192901" />
+    <state x="100" y="0" key="Maven.ArtifactSearchDialog" timestamp="1576567803476">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="100" y="0" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1576567803476" />
     <state x="35" y="0" key="SettingsEditor" timestamp="1576548537894">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -199,9 +271,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="0" y="34" width="1366" height="694" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1576550454886" />
-    <state x="262" y="0" width="840" height="726" key="search.everywhere.popup" timestamp="1576500828567">
+    <state x="262" y="0" width="840" height="726" key="search.everywhere.popup" timestamp="1576586312527">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="262" y="0" width="840" height="726" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1576500828567" />
+    <state x="262" y="0" width="840" height="726" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1576586312527" />
   </component>
 </project>
